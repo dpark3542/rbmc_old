@@ -1,0 +1,10 @@
+{
+  "program": "AndyNewman.py",
+  "rbmc_url": "http://rbmc-dev:8080",
+  "playerName": "AndyNewman",
+  "playerId": "1d92aee7-c939-4503-af91-8063bef79c9e",
+  "playerKey": "55d66354-25ab-438d-a087-c363b24769ef",
+  "verbose": true,
+  "numSimultaneousGames": 10,
+  "verboseBotRegister": false
+}
